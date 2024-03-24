@@ -1,0 +1,15 @@
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.GeneratedMSBuildEditorConfig.editorconfig
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.AssemblyInfoInputs.cache
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.AssemblyInfo.cs
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.csproj.CoreCompileInputs.cache
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.sourcelink.json
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\bin\Debug\net8.0\tpmodul6_1302223136.exe
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\bin\Debug\net8.0\tpmodul6_1302223136.deps.json
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\bin\Debug\net8.0\tpmodul6_1302223136.runtimeconfig.json
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\bin\Debug\net8.0\tpmodul6_1302223136.dll
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\bin\Debug\net8.0\tpmodul6_1302223136.pdb
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.dll
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\refint\tpmodul6_1302223136.dll
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.pdb
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\tpmodul6_1302223136.genruntimeconfig.cache
+D:\! Coleg\KPL\TPmod6\tpmodul6_1302223136\tpmodul6_1302223136\obj\Debug\net8.0\ref\tpmodul6_1302223136.dll

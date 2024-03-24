@@ -17,13 +17,39 @@ namespace tpmodul6_1302223136
         {
             Random i = new Random();
             this.id = i.Next(10000, 99999);
-            this.title = title;
+
+            if (title == "" || title == null)
+            {
+                System.Console.WriteLine("Title cannot be empty");
+            } 
+            else
+            {
+                this.title = title;
+            }
+
             this.playCount = 0;
         }
 
         public void IncreasePlayCount(int x)
         {
-            this.playCount += x;
+            try
+            {
+                checked
+                {
+                    if (x > 10000000)
+                    {
+                        this.playCount += 10000000;
+                    }
+                    else
+                    {
+                        this.playCount += x;
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
         }
 
         public void PrintVideoDetails()
